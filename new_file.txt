@@ -1,0 +1,3 @@
+It will be NewYear in 5 days.
+The work is gonna busy in these days.
+But it's ok, because I'm learning Python here which is full of fun.
